@@ -22,6 +22,10 @@ const Message = ({ user, message, newDay }) => {
       </div>
     );
 
+    const formatTime = (timestamp) => {
+      return timestamp.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', hour12: true });
+    };
+
   dayjs.extend(relativeTime);
   return (
     <div className="main-container cursor-default grid">
@@ -35,9 +39,7 @@ const Message = ({ user, message, newDay }) => {
           }`}
         >
           {message?.timestamp
-            ? dayjs(message.timestamp.getTime())
-                .fromNow()
-                .replace("a few seconds ago", "Just now")
+            ? formatTime(message?.timestamp)
             : "..."}
         </span>
       </TypeOfMessage>
