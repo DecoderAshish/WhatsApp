@@ -1,12 +1,12 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCa5sYIa8c9r-4Jwj9bzP7qi-ECelsn3vY",
-  authDomain: "brosifer11.firebaseapp.com",
-  projectId: "brosifer11",
-  storageBucket: "brosifer11.appspot.com",
-  messagingSenderId: "980519342622",
-  appId: "1:980519342622:web:7a07792dda96f4bfae140f",
+  apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  authDomain: "xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  projectId: "xxxxxxxxxxxx",
+  storageBucket: "xxxxxxxxxxxxxxxxxxxxxx",
+  messagingSenderId: "xxxxxxxxxxxx",
+  appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 };
 
 const app = !firebase.apps.length
