@@ -7,7 +7,7 @@ It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-
 
 ## How to use
 
-Execute [`git clone https://github.com/DecoderAshish/WhatsApp.git`] to clone the project. Git should be installed on your PC.
+Execute [`git clone https://github.com/DecoderAshish/WhatsApp.git`] to clone the project. Git should have installed on your PC.
 
 ```bash
 git clone https://github.com/DecoderAshish/WhatsApp.git
