@@ -6,9 +6,16 @@ It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-
 
 ## Preview
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+Preview the example
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+Login page
+<img align="center" src="https://github.com/DecoderAshish/WhatsApp/blob/main/Screenshot%20(1).png" alt="decoderashish" height="100%" width="100%" />
+
+Home page
+<img align="center" src="https://github.com/DecoderAshish/WhatsApp/blob/main/Screenshot%20(2).png" alt="decoderashish" height="100%" width="100%" />
+
+Chat page
+<img align="center" src="https://github.com/DecoderAshish/WhatsApp/blob/main/Screenshot%20(3).png" alt="decoderashish" height="100%" width="100%" />
 
 ## Deploy your own
 
