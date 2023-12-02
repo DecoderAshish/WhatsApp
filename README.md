@@ -17,14 +17,17 @@ git clone https://github.com/DecoderAshish/WhatsApp.git
 
 Preview the example
 
+Landing page
+<img align="center" src="https://decoderashish.me/whatsapp-clone/1.png" alt="decoderashish" height="100%" width="100%" />
+
 Login page
-<img align="center" src="Screenshot%20(1).png" alt="decoderashish" height="100%" width="100%" />
+<img align="center" src="https://decoderashish.me/whatsapp-clone/2.png" alt="decoderashish" height="100%" width="100%" />
 
 Home page
-<img align="center" src="Screenshot%20(2).png" alt="decoderashish" height="100%" width="100%" />
+<img align="center" src="https://decoderashish.me/whatsapp-clone/3.png" alt="decoderashish" height="100%" width="100%" />
 
 Chat page
-<img align="center" src="creenshot%20(3).png" alt="decoderashish" height="100%" width="100%" />
+<img align="center" src="https://decoderashish.me/whatsapp-clone/4.png" alt="decoderashish" height="100%" width="100%" />
 
 ## Deploy your own
 
